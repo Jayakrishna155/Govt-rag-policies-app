@@ -1,0 +1,397 @@
+[
+  {
+    "text": "Jayakrishna Meravala\nEmail: jayakrishna_meravala@srmap.edu.in\nMobile: 9398415710\nCity: Amaravathi\nInterview Details\nInterview Topic\nMern stack developer\nNo. of Questions\n10\nInterview Level\nAdvanced\nInterviewer\nLucy\nDate\n24 Dec 2025\nScores Overview\nOverall Score\n72%\nTechnical Score\n76%\nCommunication\n66%\nProfessionalism\n71%\nPositive Attitude\n77%\nSociability\n41%\nStrengths and Areas of Improvement\nPage 1 of 7",
+    "page": 1,
+    "filename": "Jayakrishna Meravala-Overall-Report.pdf"
+  },
+  {
+    "text": "Strengths\n• Demonstrated strong frontend performance optimization skills using React Profiler, Chrome DevTools, and mem-\noization\n• Integrated React.js frontend with a Python backend (FastAPI/Flask) effectively using RESTful APIs and multipart \nfile uploads\n• Implemented secure JWT -based authentication and role-based access control with middleware and conditional \nrendering\n• Showed understanding of real-time chat scalability using Socket.IO adapters, horizontal scaling, and room-based \narchitecture\n• Designed efficient database schemas with separate collections, indexing, and aggregated fields for product reviews\n• Understood SSR implementation in Next.js using getServerSideProps, API routes, and caching for SEO and \nperformance\nAreas of Improvement\n• Frequent use of filler words and hesitations, reducing clarity of explanations\n• Some technical answers (e.g., real-time scaling and database schema design) lacked in-depth implementation \ndetails\n• Occasional inaccuracies in terminology and inconsistent articulation under pressure\nInterview Conversation\nQuestion 1\nGood day, Jayakrishna Meravala. Thank you for joining the interview. Let’s start with a brief",
+    "page": 2,
+    "filename": "Jayakrishna Meravala-Overall-Report.pdf"
+  },
+  {
+    "text": "accuracies in terminology and inconsistent articulation under pressure\nInterview Conversation\nQuestion 1\nGood day, Jayakrishna Meravala. Thank you for joining the interview. Let’s start with a brief \nself-introduction from your side. Could you tell me about yourself, your background, and your \nexperience?\nAnswer: Y eah, my name is uh Jay Krishna Marwalla I am a final year Btech Computer Science student at SRM \nUniversity with a CGP of 906 I have hands on experience on front end developer where I worked on performance \noptimization, API integration and modular React components I have built multiple full stack projects including \na government policy rag assistant, a real time chart app And e commerce platform using a mainstack I enjoy \nsolving real world problems using clean architecture and scalable design I am currently looking for a opponent \nopportunity where I can contribute as a software engineering where continuously learning and improving Thank \nyou\nScore: 80\nConceptual introduction. Candidate covers education, experience, and projects but answer has filler words, minor typos, and \ncould be clearer and more structured.\nQuestion 2",
+    "page": 2,
+    "filename": "Jayakrishna Meravala-Overall-Report.pdf"
+  },
+  {
+    "text": "ving Thank \nyou\nScore: 80\nConceptual introduction. Candidate covers education, experience, and projects but answer has filler words, minor typos, and \ncould be clearer and more structured.\nQuestion 2\nThank you for the introduction, Jayakrishna. It's great to hear about your background and \nexperience. Let’s move on to the next question. Could you elaborate on your experience as a \nPage 2 of 7",
+    "page": 2,
+    "filename": "Jayakrishna Meravala-Overall-Report.pdf"
+  },
+  {
+    "text": "Frontend Developer at Agumentik Group of Companies? Specifically, what challenges did you \nface while optimizing frontend performance, and how did you address them?\nAnswer: Uh, the challenges I faced, uh, while optimising, uh, the code, like I, uh, actually basically, uh, the code \nis uh, try to redundant During the my time at augmented group of companies, I worked as front end developer, a \nproduction level React application One of the main challenges I was I faced was poor, uh, front end performance, \nuh, due to Redundant code and unnecessary renders and unoptimised components structure To address this I \nused Chrome Dev tools and React dev tools to identify the performance bottlenecks such as repeated AP calls \nand components re rendering with state changes and I refactor the code by breaking the large components \ninto small reusable ones Playing proper state lifting and using memorised were required and also optimised AP \nintegration by handling state Efficiently reducing unnecessary data processing on the client side As a result, the \napplication become more responsive and easier to maintain and provide a smoother user experience\nScore: 85",
+    "page": 3,
+    "filename": "Jayakrishna Meravala-Overall-Report.pdf"
+  },
+  {
+    "text": "state Efficiently reducing unnecessary data processing on the client side As a result, the \napplication become more responsive and easier to maintain and provide a smoother user experience\nScore: 85\nConceptual question. Candidate clearly outlines the problem, tools used, refactoring steps, and measurable outcomes. Minor \nclarity issues due to filler words.\nQuestion 3\nThank you for your detailed response, Jayakrishna. It’s clear you took a structured approach \nto solving the performance issues. To follow up, could you explain how you identified specific \ncomponents for optimization and provide an example of a particular bottleneck you resolved?\nAnswer: For particular like how I solve one means like to identify the component that needed optimization I \nmainly relied on the reactive tools and Chrome Dev tools I used the react profiler to track the components render \nfrequently and and rendered duration which helped me pinpoint components that were re render unnecessarily \nOne specific bottleneck I encountered was I was in a dashboard component that re renders every time a user",
+    "page": 3,
+    "filename": "Jayakrishna Meravala-Overall-Report.pdf"
+  },
+  {
+    "text": "nd rendered duration which helped me pinpoint components that were re render unnecessarily \nOne specific bottleneck I encountered was I was in a dashboard component that re renders every time a user \ninteract with a unrelated UI UAE elements such as toggling air sidebar After analysing it, I realised that the shared \nstate was placed too high in the component hierarchically causing the child components to render even when the \nwhen their data had not changed I resolved this by lifting only the required state down to the relevant component \nusing react dot memory for static UA company I for static For static UI components, additionally, I optimised a \nheavy list rendering component by introducing the agent and conditional rendering Which significantly reduces \nthe time and improved overall responsiveness\nScore: 75\nConceptual follow-up. Good use of React Profiler and real example of state-location issue. Some terminology is unclear and \nlist-optimization approach lacks detail (e.g., virtualization).\nQuestion 4\nThank you for providing that specific example, Jayakrishna. It’s a strong demonstration of your",
+    "page": 3,
+    "filename": "Jayakrishna Meravala-Overall-Report.pdf"
+  },
+  {
+    "text": "terminology is unclear and \nlist-optimization approach lacks detail (e.g., virtualization).\nQuestion 4\nThank you for providing that specific example, Jayakrishna. It’s a strong demonstration of your \nproblem-solving and optimization skills. Let’s now move on to the next question. You mentioned \nbuilding a Government Policy RAG Assistant in your projects. Could you explain how you \nintegrated the Python backend with your React.js frontend, particularly focusing on how you \nmanaged the communication between the two?\nAnswer: For front end I use for for front end communicating to the backend For backend I used flash flash \nFast API in government rack policy assistant I integrated react from front end with Python back Back in using \nRestful APIs, the React friend and handles user interactions such as PDFs, PDF uploads and query inputs Well \nThe Python backend will using fast APA managed the document preprocessing, embedding, generation and \nPage 3 of 7",
+    "page": 3,
+    "filename": "Jayakrishna Meravala-Overall-Report.pdf"
+  },
+  {
+    "text": "responsive creation For communication I used HTP based DAP calls with axios from react site and when a user \nuploads a PDF , the file was sent as a multipart request to the backend where it was A passed, unsolved, stored \nfor user query reaction To a dedicated endpoint at the back end Performance performed vector retrieval using \nFias and passed the retrieved context to the LLM The generation response was the returned as a JSON and \nthen rendered in the UI with the proper loading and error states this clearly Separation of the concerns ensured \nthe smooth communication, scalability and easier debugging between the front end and back end\nScore: 90\nConceptual integration question. Clear explanation of using RESTful endpoints with Axios, file uploads, FastAPI, Faiss vector \nretrieval, and JSON responses. Some typos but overall accurate.\nQuestion 5\nThank you for the detailed explanation, Jayakrishna. It’s evident that you have a clear under-\nstanding of integrating frontend and backend systems. Let’s move forward with a skill-based \nquestion. In a MERN stack application, how would you handle authentication and authorization",
+    "page": 4,
+    "filename": "Jayakrishna Meravala-Overall-Report.pdf"
+  },
+  {
+    "text": "clear under-\nstanding of integrating frontend and backend systems. Let’s move forward with a skill-based \nquestion. In a MERN stack application, how would you handle authentication and authorization \nfor different user roles, such as admin and standard users? Please explain your approach in \ndetail.\nAnswer: Y eah, firstly coming to authentication and authorization Authentication is basically like logining like in \nmen's tech application I handle authentication or authorization using J double t rule based awareness control \nfor authentication When a user logs in, in the back end verifies the credentials and issues a Significant JD \ncontaining the user ID and the role such as admin or standard user This token is sent to the client and securely \nstored, typically in HDP only cookies or local storage depending on the security requirements for authorization \nI implemented middleware on the back end and evaluates the JWD on every protected request The middleware \nchecks the both UH talk and validity and user route based on the rule access The specific routes is either allowed \nor denied For example admin only routes for user management or analytics On the front end, UH React uses",
+    "page": 4,
+    "filename": "Jayakrishna Meravala-Overall-Report.pdf"
+  },
+  {
+    "text": "k and validity and user route based on the rule access The specific routes is either allowed \nor denied For example admin only routes for user management or analytics On the front end, UH React uses \nthe uh role information to conditionally render the component, protect roads, and district the UA action This uh \napproach ensures the secure authentication uh clear role separation scalability as more roles are permissions \nadded\nScore: 90\nConceptual security question. Strong description of JWT issuance, secure storage, middleware-based role checks, and \nfrontend conditional rendering. Minor clarity issues from filler but technically sound.\nQuestion 6\nThank you for your well-structured response, Jayakrishna. It clearly demonstrates your un-\nderstanding of implementing secure authentication and role-based access control in a MERN \nstack application. Moving forward, here’s the next question: In a real-time chat application using \nthe MERN stack and Socket.IO, how would you ensure scalability to handle a large number of \nconcurrent users while maintaining low latency?\nAnswer: For, uh, managing, uh, scalability and low latency, uh, like, uh Horizontal scaling of the backend socket",
+    "page": 4,
+    "filename": "Jayakrishna Meravala-Overall-Report.pdf"
+  },
+  {
+    "text": "ability to handle a large number of \nconcurrent users while maintaining low latency?\nAnswer: For, uh, managing, uh, scalability and low latency, uh, like, uh Horizontal scaling of the backend socket \nuses web books to maintain the persistent connection A single node JS server can only handle the finite number \nof concurrent actions efficiently To scale that multiple node JS instance I can use and sticky sessions I can use \nor another way I can use distributed socket socketio with pub or sub When you have multiple server instance, a \nmessage from a client on, uh, one server To be delivered to the client on another server To handle this use socketio \nadapter That are another approach Also there efficient message routing, room based architecture, minimising \nPage 4 of 7",
+    "page": 4,
+    "filename": "Jayakrishna Meravala-Overall-Report.pdf"
+  },
+  {
+    "text": "event emission Like that we can do or we can optimize the data optimization Real time chart often involves \nfrequent read or write operation Use a fast and scalable database Q for persistence like that we can do and also \nwe can use connection management Like this we can handle the low latency unscalability issues\nScore: 75\nConceptual scalability question. Mentions horizontal scaling, sticky sessions, pub/sub adapters, room-based routing and fast \ndatabase. Some points are vague, terminology imprecise, missing details on specific adapter implementation.\nQuestion 7\nThank you for outlining your approach, Jayakrishna. You’ve addressed several key strategies \nlike horizontal scaling, distributed adapters, and database optimization. Let’s now proceed to \nthe next question. In a scenario where your React.js application is experiencing performance \nissues due to frequent re-renders caused by state updates, how would you debug and resolve \nthe issue? Please explain your approach step by step.\nAnswer: Render causes state updation like it actually was the time Uh Uh, like, uh, read index, like uh, unwanted",
+    "page": 5,
+    "filename": "Jayakrishna Meravala-Overall-Report.pdf"
+  },
+  {
+    "text": "w would you debug and resolve \nthe issue? Please explain your approach step by step.\nAnswer: Render causes state updation like it actually was the time Uh Uh, like, uh, read index, like uh, unwanted \nrenders unwanted, uh, which actually leads to the uh, uh, not efficient, uh, uh, storage efficient So I didn't pay the \nperformance bottleneck First user uh use react developer tools like profiler, open reactive tools, go to the profiler \ntab, record the uh record instances while using a app, check with which components are re rendering frequently, \nhow long each re render takes For the component with unnecessary renderings, the components that re render \ntoo often might indicates the states or props are causing cascading updates and Step 2 Analysing a state and \nprops, check state placement, check prop changes Step 3 Memoization to prevent the unnecessary renders \nReact that which basically wraps the functional components to prevent the uh re render unless the prop changes \nUse callback for function, prevent new function engines on every independent use Expensive competition like",
+    "page": 5,
+    "filename": "Jayakrishna Meravala-Overall-Report.pdf"
+  },
+  {
+    "text": "cally wraps the functional components to prevent the uh re render unless the prop changes \nUse callback for function, prevent new function engines on every independent use Expensive competition like \nmemorise Memorise the calculator values to avoid the recalculation of each renders These are the techniques \nto avoid the re rendering\nScore: 90\nConceptual debugging question. Good step-by-step: use React Profiler, analyze state/props placement, apply React.memo, \nuseCallback, and useMemo to prevent unnecessary re-renders. Minor clarity issues from filler words.\nQuestion 8\nThank you for the structured response, Jayakrishna. You’ve highlighted some effective debug-\nging tools and optimization techniques like React Profiler, state analysis, and memoization. \nLet’s move to the next question. In a MERN stack e-commerce application, how would you \ndesign the database schema to efficiently handle product reviews, including features like \nratings, timestamps, and user references?\nAnswer: Uh, for, uh, debug, uh So how can I do means like, uh, for schema design, uh Like for data schema",
+    "page": 5,
+    "filename": "Jayakrishna Meravala-Overall-Report.pdf"
+  },
+  {
+    "text": "y handle product reviews, including features like \nratings, timestamps, and user references?\nAnswer: Uh, for, uh, debug, uh So how can I do means like, uh, for schema design, uh Like for data schema \ndesign for the product reviews, I first create the collection structure, production collection, user collection, reviews \ncollection The key key design decision is refactoring was embedded Use refactoring for use to avoid the large \nproduction document Allow independent cordon reviews optionally embedded only React reviews in product for \nfaster access or maintained product pitch and Indexes product ID index in review for fast retrieval for of reviews \nper product And also aggregated fields store average rating, review count in product for QK access and also \ntime stamp for created at updated Allo sorting and filtering review by recency optimising feature Add a helpful \nvoice field for upwards and add a status field for modernization example query pattern which all the reviews for \na product like that",
+    "page": 5,
+    "filename": "Jayakrishna Meravala-Overall-Report.pdf"
+  },
+  {
+    "text": "and filtering review by recency optimising feature Add a helpful \nvoice field for upwards and add a status field for modernization example query pattern which all the reviews for \na product like that\nPage 5 of 7",
+    "page": 5,
+    "filename": "Jayakrishna Meravala-Overall-Report.pdf"
+  },
+  {
+    "text": "Score: 85\nConceptual database design question. Good separation of collections, use of indexes, aggregated fields for average rating \nand count, timestamps, and status/helpfulness fields. Explanation contains typos but covers key efficiency considerations.\nQuestion 9\nThank you for your response, Jayakrishna. You’ve mentioned key aspects like separating \ncollections, using indexes, and maintaining aggregated fields for efficiency. Let’s proceed to \nthe final question. Imagine you are tasked with implementing server-side rendering (SSR) in \na MERN stack application using Next.js for improved SEO and performance. How would you \napproach this implementation? Please explain the steps and considerations involved.\nAnswer: Y eah, first I will uh give the uh clear idea between the SSR and GSR SSR actually interact with the \nserver uh CSR basically interact with the web browser To implement uh SSR in main stack application, use next \nJS It would first migrate uh the react front end to the next JS pages or app directory structure where each page \ncan define the get server set props to face the data from the node or express backend before rendering This",
+    "page": 6,
+    "filename": "Jayakrishna Meravala-Overall-Report.pdf"
+  },
+  {
+    "text": "te uh the react front end to the next JS pages or app directory structure where each page \ncan define the get server set props to face the data from the node or express backend before rendering This \nensures that the HTML sent to the client already contained a populated content, improving SEO and initial load \nperformance I would also implement API routes in next days for secure server side data fetching, use caching \nor CDN for static assets and optimising database queries to minimise the response time during the SSR\nScore: 90\nConceptual SSR question. Clear plan: migrate to Next.js pages/app, use getServerSideProps, implement API routes, \ncaching/CDN, and database query optimization. Minor grammar issues but technically solid.\nInterview Summary\n• Jayakrishna demonstrated strong MERN stack expertise through detailed explanations of frontend performance \noptimizations using React Profiler, state refactoring, memoization, and Next.js SSR for improved SEO and load times, \nreflecting deep technical knowledge.\n• He effectively conveyed his backend integration skills in the Government Policy RAG Assistant project, describing",
+    "page": 6,
+    "filename": "Jayakrishna Meravala-Overall-Report.pdf"
+  },
+  {
+    "text": "Next.js SSR for improved SEO and load times, \nreflecting deep technical knowledge.\n• He effectively conveyed his backend integration skills in the Government Policy RAG Assistant project, describing \nRESTful communication with FastAPI, vector retrieval with FAISS, and LLM generation, showcasing solid system \ndesign and API-driven development experience.\n• His approach to authentication and real-time scalability—implementing JWT -based role-based access control, mid-\ndleware validation, horizontal scaling with Socket.IO adapters, room architecture, and database optimizations—high-\nlights practical problem-solving and scalable architecture design.\n• Throughout the interview, Jayakrishna maintained a professional and enthusiastic attitude, providing relevant details \non complex topics; however, his responses occasionally included filler words and verbosity, suggesting an opportunity \nto improve clarity and conciseness.\nCandidate Improvement Suggestions\n• Y ou should structure your answers in a clear, step-by-step manner (for example, using the STAR method) to \ndemonstrate your problem-solving process and avoid filler words.",
+    "page": 6,
+    "filename": "Jayakrishna Meravala-Overall-Report.pdf"
+  },
+  {
+    "text": "Improvement Suggestions\n• Y ou should structure your answers in a clear, step-by-step manner (for example, using the STAR method) to \ndemonstrate your problem-solving process and avoid filler words.\nPage 6 of 7",
+    "page": 6,
+    "filename": "Jayakrishna Meravala-Overall-Report.pdf"
+  },
+  {
+    "text": "• Consider adding specific metrics and discussing trade-offs in your technical explanations (for instance, detailing \ntoken expiry and refresh flows in your JWT strategy or quantifying performance gains from optimizations).\n• Try practicing your responses aloud and focusing on concise, confident language to improve verbal clarity and \nreduce hesitation during the interview.\n• Work on emphasizing the impact of your contributions by citing quantifiable results (such as reduced load times or \nimproved query performance) to make your examples more compelling and relevant.\nPage 7 of 7\nGenerated on 29/12/2025",
+    "page": 7,
+    "filename": "Jayakrishna Meravala-Overall-Report.pdf"
+  },
+  {
+    "text": "Page 1 of 9 \n \n \n \n \nNational Cyber Security Policy -2013 \n \n \n \nPreamble \n \n1. Cyberspace1 is a complex environment consisting of interactions between people, software and \nservices, supported by worldwide distribution of information and communication technology (ICT) \ndevices and networks.  \n \n2. Owing to the numerous benefits brought about by technological advancements, the cyberspace \ntoday is a common pool used by citizens, businesses, critical information infrastructure, military and \ngovernments in a manner that makes it difficul t to draw clear boundaries among these different \ngroups. The cyberspace is expected to be more complex in the foreseeable future, with many fold \nincrease in networks and devices connected to it.  \n \n3. Information Technology (IT) is one of the critical secto rs that rides on and resides in cyberspace. \nIt has emerged as one of the most significant growth catalysts for the Indian economy. In addition to \nfuelling India’s economy, this sector is also positively influencing the lives of its people through direct \nand indirect contribution to the various socio -economic parameters such as employment, standard",
+    "page": 1,
+    "filename": "national-cyber-security-policy-ncsp-2013-233.pdf"
+  },
+  {
+    "text": "g India’s economy, this sector is also positively influencing the lives of its people through direct \nand indirect contribution to the various socio -economic parameters such as employment, standard \nof living and diversity among others. The sector has played a significant role in transforming India’s \nimage to that of a global player in providing world -class t echnology solutions and IT business \nservices. The government has been a key driver for increased adoption of IT -based products and IT \nenabled services in Public services (Government to citizen services, citizen identification, public \ndistribution systems), Healthcare (telemedicine, remote consultation, mobile clinics), Education (e -\nLearning, virtual classrooms, etc) and Financial services (mobile banking  / payment gateways), etc. \nSuch initiatives have enabled increased IT adoption in the country through sec toral reforms and \nNational programmes which have led to creation of large scale IT infrastructure with corporate / \nprivate participation. \n \n4. In the light of the growth of IT sector in the country, ambitious plans for rapid social transformation",
+    "page": 1,
+    "filename": "national-cyber-security-policy-ncsp-2013-233.pdf"
+  },
+  {
+    "text": "ed to creation of large scale IT infrastructure with corporate / \nprivate participation. \n \n4. In the light of the growth of IT sector in the country, ambitious plans for rapid social transformation \n& inclusive growth and India’s prominent role in the IT global market, providing right kind of focus for \ncreating secure computing environment and adequate trust & confidence in electronic transactions, \nsoftware, services, devices and networks, has become one of the  compelling priorities for the \ncountry.  Such a focus enables creation of a suitable cyber security eco -system in the country, in \ntune with globally networked environment. \n \n                                                           \n1ISO / IEC 27032-2012",
+    "page": 1,
+    "filename": "national-cyber-security-policy-ncsp-2013-233.pdf"
+  },
+  {
+    "text": "Page 2 of 9 \n \n5. Cyberspace is vulnerable to a wide variety of incidents, whether intentional or accidental, \nmanmade or natural, and the data exchanged in the cyberspace can be exploited for nefarious \npurposes by both nation- states and non-state actors. Cyber attacks that target the infrastructure or \nunderlying economic well -being of a nation state c an effectively reduce available state resources \nand undermine confidence in their supporting structures.  A cyber related incident of national \nsignificance may take any form; an organized cyber attack, an uncontrolled exploit such as \ncomputer virus or worm s or any malicious software code, a national disaster with significant cyber \nconsequences or other related incidents capable of causing extensive damage to the information \ninfrastructure or key assets.  Large -scale cyber incidents may overwhelm the governm ent, public \nand private sector resources and services by disrupting functioning of critical information systems.  \nComplications from disruptions of such a magnitude may threaten lives, economy and national \nsecurity.  Rapid identification, information excha nge, investigation and coordinated response and",
+    "page": 2,
+    "filename": "national-cyber-security-policy-ncsp-2013-233.pdf"
+  },
+  {
+    "text": "ems.  \nComplications from disruptions of such a magnitude may threaten lives, economy and national \nsecurity.  Rapid identification, information excha nge, investigation and coordinated response and \nremediation can mitigate the damage caused by malicious cyberspace activity. Some of the \nexamples of cyber threats to individuals, businesses and government are identity theft, phishing, \nsocial engineering, hactivism, cyber terrorism, compound threats targeting mobile devices and smart \nphone, compromised digital certificates, advanced persistent threats, denial of service, bot nets, \nsupply chain attacks, data leakage, etc. The protection of information infrastructure and preservation \nof the confidentiality, integrity and availability of information in cyberspace is the essence of a secure \ncyber space. \n \n6. There are various ongoing activities and programs of the Government to address the cyber \nsecurity challenge s which have significantly contributed to the creation of a platform that is now \ncapable of supporting and sustaining the efforts in securing the cyber space. Due to the dynamic",
+    "page": 2,
+    "filename": "national-cyber-security-policy-ncsp-2013-233.pdf"
+  },
+  {
+    "text": "security challenge s which have significantly contributed to the creation of a platform that is now \ncapable of supporting and sustaining the efforts in securing the cyber space. Due to the dynamic \nnature of cyberspace, there is now a need for these actions to be unified unde r a National Cyber \nSecurity Policy , with an integrated vision and a set of sustained & coordinated strategies for \nimplementation.   \n \n7.  The cyber security policy is an evolving task and it caters to the whole spectrum of ICT users and \nproviders including home users and small, medium and large enterprises and Government & non -\nGovernment entities. It serves as an umbrella framework for defining and guiding the actions related \nto security of cyberspace. It also enables the individual sectors and organizations  in designing \nappropriate cyber security policies to suit their needs. The policy provides an overview of what it \ntakes to effectively protect information, information systems & networks and also gives an insight \ninto the Government’s approach and strategy  for protection of cyber space in the country.  It also",
+    "page": 2,
+    "filename": "national-cyber-security-policy-ncsp-2013-233.pdf"
+  },
+  {
+    "text": "akes to effectively protect information, information systems & networks and also gives an insight \ninto the Government’s approach and strategy  for protection of cyber space in the country.  It also \noutlines some pointers to enable collaborative working of all key players in public & private to \nsafeguard country’s information and information systems.  This policy, therefore, aims to create a \ncyber security framework, which leads to specific actions and programmes to enhance the security \nposture of country’s cyber space.",
+    "page": 2,
+    "filename": "national-cyber-security-policy-ncsp-2013-233.pdf"
+  },
+  {
+    "text": "Page 3 of 9 \n \n \n \nI. Vision \nTo build a secure and resilient cyberspace for citizens, businesses and \nGovernment \nII. Mission \nTo protect information and information infrastructure in cyberspace, build capabilities to \nprevent and respond to cyber threats, reduce vulnerabilities and minimize damage from \ncyber incidents through a combination of institutional structures, people, processes, \ntechnology and cooperation. \nIII. Objectives \n1) To create a secure cyber ecosystem in the country, generate adequate trust & \nconfidence in IT systems and transactions in cyberspace and thereby enhance adoption \nof IT in all sectors of the economy.   \n2) To create an assurance framework for  design of security policies and for promotion and \nenabling actions for compliance to global security standards and best practices by way of \nconformity assessment (product, process, technology & people). \n3) To strengthen the Regulatory framework for ensuring a Secure Cyberspace ecosystem. \n4) To enhance and create National and Sectoral level 24 x 7 mechanisms for obtaining \nstrategic information regarding threats to ICT infrastructure, creating scenarios for",
+    "page": 3,
+    "filename": "national-cyber-security-policy-ncsp-2013-233.pdf"
+  },
+  {
+    "text": "ure Cyberspace ecosystem. \n4) To enhance and create National and Sectoral level 24 x 7 mechanisms for obtaining \nstrategic information regarding threats to ICT infrastructure, creating scenarios for \nresponse, resolution and crisis management through effect ive predictive, preventive, \nprotective, response and recovery actions. \n5) To enhance the protection and resilience of Nation’s critical information infrastructure by \noperating a 24x7 National Critical Information Infrastructure Protection Centre (NCIIPC) \nand mandating security practices related to the design, acquisition, development, use \nand operation of information resources. \n6) To develop suitable indigenous security technologies through frontier technology \nresearch, solution oriented research, proof of concep t, pilot development, transition, \ndiffusion and commercialisation leading to widespread deployment of secure ICT \nproducts / processes in general and specifically for addressing National Security \nrequirements.  \n7) To improve visibility of the integrity of ICT products and services by establishing",
+    "page": 3,
+    "filename": "national-cyber-security-policy-ncsp-2013-233.pdf"
+  },
+  {
+    "text": "secure ICT \nproducts / processes in general and specifically for addressing National Security \nrequirements.  \n7) To improve visibility of the integrity of ICT products and services by establishing \ninfrastructure for testing & validation of security of such products.",
+    "page": 3,
+    "filename": "national-cyber-security-policy-ncsp-2013-233.pdf"
+  },
+  {
+    "text": "Page 4 of 9 \n \n8) To create a workforce of 500,000 professionals skilled in cyber security in the next 5 \nyears through capacity building, skill development and training. \n9) To provide fiscal benefits to businesses for adoption of standard security practices and \nprocesses. \n10) To enable protection of information while in process, handling, storage & transit so as to \nsafeguard privacy of citizen's data and for reducing economi c losses due to cyber crime \nor data theft. \n11) To enable effective prevention, investigation and prosecution of cyber crime and \nenhancement of law enforcement capabilities through appropriate legislative intervention. \n12) To create a culture of cyber security and privacy enabling responsible user behaviour & \nactions through an effective communication and promotion strategy.  \n13) To develop effective public private partnerships and collaborative engagements through \ntechnical and operational cooperation and contribution for enhancing the security of \ncyberspace. \n14) To enhance global cooperation by promoting shared understanding and leveraging \nrelationships for furthering the cause of security of cyberspace. \nIV. Strategies",
+    "page": 4,
+    "filename": "national-cyber-security-policy-ncsp-2013-233.pdf"
+  },
+  {
+    "text": "ng the security of \ncyberspace. \n14) To enhance global cooperation by promoting shared understanding and leveraging \nrelationships for furthering the cause of security of cyberspace. \nIV. Strategies \nA. Creating a secure cyber ecosystem  \n1) To designate a National  nodal agency to coordinate all matters related to cyber \nsecurity in the country, with clearly defined roles & responsibilities. \n2) To encourage all organizations, private and public to designate a member of senior \nmanagement, as Chief Information Security Of ficer (CISO), responsible for cyber \nsecurity efforts and initiatives.  \n3) To encourage all organizations to develop information security policies duly \nintegrated with their business plans and implement such policies as per international \nbest practices. Such policies should include establishing standards and mechanisms \nfor secure information flow (while in process, handling, storage & transit), crisis \nmanagement plan, proactive security posture assessment and forensically enabled \ninformation infrastructure. \n4) To ensure that all organizations earmark a specific budget for implementing cyber",
+    "page": 4,
+    "filename": "national-cyber-security-policy-ncsp-2013-233.pdf"
+  },
+  {
+    "text": "is \nmanagement plan, proactive security posture assessment and forensically enabled \ninformation infrastructure. \n4) To ensure that all organizations earmark a specific budget for implementing cyber \nsecurity initiatives and for meeting emergency response arising out of cyber incidents.  \n5) To provide fiscal schemes and incentives to encourage entities to install, strengthen \nand upgrade information infrastructure with respect to cyber security.",
+    "page": 4,
+    "filename": "national-cyber-security-policy-ncsp-2013-233.pdf"
+  },
+  {
+    "text": "Page 5 of 9 \n \n6) To prevent occurrence and recurrence of cyber incidents by way of incentives for \ntechnology development, cyber security compliance and proactive actions. \n7) To establish a mechanism for shar ing information and for identifying and responding \nto cyber security incidents and for cooperation in restoration efforts. \n8) To encourage entities to adopt guidelines for procurement of trustworthy ICT products \nand provide for procurement of indigenously man ufactured ICT products that have \nsecurity implications. \nB. Creating an assurance framework \n1) To promote adoption of global best practices in information security and compliance \nand thereby enhance cyber security posture. \n2) To create infrastructure for conformity assessment and certification of compliance to \ncyber security best practices, standards and guidelines (Eg. ISO 27001 ISMS \ncertification, IS system audits, Penetration testing  / Vulnerability assessment, \napplication security testing, web security testing). \n3) To enable implementation of global security best practices in formal risk assessment \nand risk management processes, business continuity management and cyber crisis",
+    "page": 5,
+    "filename": "national-cyber-security-policy-ncsp-2013-233.pdf"
+  },
+  {
+    "text": "sting, web security testing). \n3) To enable implementation of global security best practices in formal risk assessment \nand risk management processes, business continuity management and cyber crisis \nmanagement plan by all entities within Government and in critical sectors, to reduce \nthe risk of disruption and improve the security posture. \n4) To identify and classify information infrastructure facilities and assets at entity level \nwith respect to risk perception for undertaking commensurate security protection \nmeasures. \n5) To encourage secure appli cation / software development processes based on global \nbest practices. \n6) To create conformity assessment framework for periodic verification of compliance to \nbest practices, standards and guidelines on cyber security. \n7) To encourage all entities to periodical ly test and evaluate the adequacy and \neffectiveness of technical and operational security control measures implemented in \nIT systems and in networks. \nC. Encouraging Open Standards \n1) To encourage use of open standards to facilitate interoperability and data exchange \namong different products or services.",
+    "page": 5,
+    "filename": "national-cyber-security-policy-ncsp-2013-233.pdf"
+  },
+  {
+    "text": "lemented in \nIT systems and in networks. \nC. Encouraging Open Standards \n1) To encourage use of open standards to facilitate interoperability and data exchange \namong different products or services. \n2) To promote a consortium of Government and private sector to enhance the \navailability of tested and certified IT products based on open standards.",
+    "page": 5,
+    "filename": "national-cyber-security-policy-ncsp-2013-233.pdf"
+  },
+  {
+    "text": "Page 6 of 9 \n \nD. Strengthening the Regulatory framework \n1) To develop a dynamic legal framework and its periodic review to address the cyber \nsecurity challenges arising out of technological developments in cyber space (such as \ncloud computing, mobile computing, encrypted services and social media) and its \nharmonization with international fr ameworks including those related to Internet \ngovernance. \n2) To mandate periodic audit and evaluation of the adequacy and effectiveness of \nsecurity of information infrastructure as may be appropriate, with respect to regulatory \nframework. \n3) To enable, educate and facilitate awareness of the regulatory framework.  \nE. Creating mechanisms for security threat early warning, vulnerability management and \nresponse to security threats \n1) To create National level systems, processes, structures and mechanisms to generate \nnecessary situational scenario of existing and potential cyber security threats and \nenable timely information sharing for proactive, preventive and protective actions by \nindividual entities.  \n2) To operate a 24x7 National Level Computer Emergency Response Team  (CERT-In)",
+    "page": 6,
+    "filename": "national-cyber-security-policy-ncsp-2013-233.pdf"
+  },
+  {
+    "text": "ats and \nenable timely information sharing for proactive, preventive and protective actions by \nindividual entities.  \n2) To operate a 24x7 National Level Computer Emergency Response Team  (CERT-In) \nto function as a Nodal Agency for coordination of all efforts for cyber security \nemergency response and crisis management. CERT -In will function as an umbrella \norganization in enabling creation and operationalization of sectoral CERTs as well as  \nfacilitating communication and coordination actions in dealing with cyber crisis \nsituations.  \n3)       To operationalise 24x7 sectoral CERTs for all coordination and communication actions \nwithin the respective sectors for effective incidence response & re solution and cyber \ncrisis  management. \n4) To implement Cyber Crisis Management Plan for dealing with cyber related incidents \nimpacting critical national processes or endangering public safety and security of the \nNation, by way of well coordinated, multi di sciplinary approach at the National, \nSectoral as well as entity levels. \n5) To conduct and facilitate regular cyber security drills & exercises at National, sectoral",
+    "page": 6,
+    "filename": "national-cyber-security-policy-ncsp-2013-233.pdf"
+  },
+  {
+    "text": "y of well coordinated, multi di sciplinary approach at the National, \nSectoral as well as entity levels. \n5) To conduct and facilitate regular cyber security drills & exercises at National, sectoral \nand entity levels to enable assessment of the security posture and level of emergency \npreparedness in resisting and dealing with cyber security incidents. \nF. Securing E-Governance services \n1) To mandate implementation of global security best practices, business continuity \nmanagement and cyber crisis management plan for all e-Governance initiatives in the \ncountry, to reduce the risk of disruption and improve the security posture.",
+    "page": 6,
+    "filename": "national-cyber-security-policy-ncsp-2013-233.pdf"
+  },
+  {
+    "text": "Page 7 of 9 \n \n2) To encourage wider usage of Public Key Infrastructure (PKI) within Government for \ntrusted communication and transactions. \n3) To engage information security professionals  / organisations to assist e -Governance \ninitiatives and ensure conformance to security best practices. \nG. Protection and resilience of Critical Information Infrastructure \n1) To develop a plan for protection of Critical Information Infrastructure and its \nintegration with business plan at the entity level and implement such plan. The plans \nshall include establishing mechanisms for secure information flow (while in process, \nhandling, storage & transit), guidelines and standards, crisis management plan, \nproactive security posture  assessment and forensically enabled information \ninfrastructure. \n2) To Operate a 24x7 National Critical Information Infrastructure Protection Centre \n(NCIIPC) to function as the nodal agency for critical information infrastructure \nprotection in the country. \n3) To facilitate identification, prioritisation, assessment, remediation and protection of \ncritical infrastructure and key resources based on the plan for protection of critical",
+    "page": 7,
+    "filename": "national-cyber-security-policy-ncsp-2013-233.pdf"
+  },
+  {
+    "text": "on in the country. \n3) To facilitate identification, prioritisation, assessment, remediation and protection of \ncritical infrastructure and key resources based on the plan for protection of critical \ninformation infrastructure.  \n4) To mandate implementation of global security best prac tices, business continuity \nmanagement and cyber crisis management plan by all critical sector entities, to \nreduce the risk of disruption and improve the security posture. \n5) To encourage and mandate as appropriate, the use of validated and certified IT \nproducts. \n6) To mandate security audit of critical information infrastructure on a periodic basis. \n7) To mandate certification for all security roles right from CISO  / CSO to those involved \nin operation of critical information infrastructure.  \n8) To mandate secure application / software development process (from design through \nretirement) based on global best practices. \nH. Promotion of Research & Development in cyber security \n1) To undertake Research & Development programs for addressing all aspects of \ndevelopment aimed at short term, medium term and long term goals.  The Research",
+    "page": 7,
+    "filename": "national-cyber-security-policy-ncsp-2013-233.pdf"
+  },
+  {
+    "text": "search & Development in cyber security \n1) To undertake Research & Development programs for addressing all aspects of \ndevelopment aimed at short term, medium term and long term goals.  The Research \n& Development programs shall address all aspects including development of \ntrustworthy systems, their testing, deployment and maintenance throughout the life \ncycle and include R&D on cutting edge security technologies.",
+    "page": 7,
+    "filename": "national-cyber-security-policy-ncsp-2013-233.pdf"
+  },
+  {
+    "text": "Page 8 of 9 \n \n2) To encourage Research & Development to produce cost -effective, tailor -made \nindigenous security solutions meeting a wider range of cyber security challenges and \ntarget for export markets. \n3) To facilitate transition, diffusion and commer cialisation of the outputs of Research & \nDevelopment into commercial products and services for use in public and private \nsectors. \n4) To set up Centres of Excellence in areas of strategic importance for the point of \n security of cyber space. \n5) To collabora te in joint Research & Development projects with industry and \n academia in frontline technologies and solution oriented research. \nI. Reducing supply chain risks \n1) To create and maintain testing infrastructure and facilities for IT security product \nevaluation and compliance verification as per global standards and practices. \n2) To build trusted relationships with product / system vendors and service providers for \nimproving end-to-end supply chain security visibility. \n3) To create awareness of the threats, vulnerabiliti es and consequences o f breach of \nsecurity among entities for managing supply chain risks related to IT (products,",
+    "page": 8,
+    "filename": "national-cyber-security-policy-ncsp-2013-233.pdf"
+  },
+  {
+    "text": "y chain security visibility. \n3) To create awareness of the threats, vulnerabiliti es and consequences o f breach of \nsecurity among entities for managing supply chain risks related to IT (products, \nsystems or services) procurement. \nJ. Human Resource Development \n1) To foster education and training programs both in formal and informal sectors to \nsupport the Nation’s cyber security needs and build capacity.  \n2) To establish cyber security training infrastructure across the country by way of public \nprivate partnership arrangements. \n3) To establish cyber security concept labs for awareness and skill develo pment in key \nareas. \n4) To establish institutional mechanisms for capacity building for Law Enforcement \nAgencies.  \nK. Creating Cyber Security Awareness \n1) To promote and launch a comprehensive national awareness program on security of \ncyberspace. \n2) To sustain security  literacy awareness and publicity campaign through electronic \nmedia to help citizens to be aware of the challenges of cyber security.  \n3) To conduct,  support and enable cyber security workshops / seminars and",
+    "page": 8,
+    "filename": "national-cyber-security-policy-ncsp-2013-233.pdf"
+  },
+  {
+    "text": "reness and publicity campaign through electronic \nmedia to help citizens to be aware of the challenges of cyber security.  \n3) To conduct,  support and enable cyber security workshops / seminars and \ncertifications.",
+    "page": 8,
+    "filename": "national-cyber-security-policy-ncsp-2013-233.pdf"
+  },
+  {
+    "text": "Page 9 of 9 \n \nL. Developing effective Public Private Partnerships  \n1) To facilitate collaboration and cooperation among stakeholder entities including \nprivate sector, in the area of cyber security in general and protection of critical \ninformation infrastructure in particul ar for actions related to cyber threa ts, \nvulnerabilities, breaches, potential protective measures, and adoption of best \npractices. \n2) To create models for collaborations and engagement with all relevant stakeholders. \n3) To create a think tank for cyber security policy inputs, discussion and deliberations. \nM. Information sharing and cooperation \n1) To develop bilateral and multi -lateral relationships in the area of cyber security with \nother countries.  \n2) To enhance National and global cooperation among security agencies, CERTs, \nDefence agencies and forces, Law Enforcement Agencies and the judicial systems. \n3) To create mechanisms for dialogue related to technical and operational aspects with \nindustry in order to facilitate efforts in recovery and resilience of systems including \ncritical information infrastructure. \nN. Prioritized approach for implementation",
+    "page": 9,
+    "filename": "national-cyber-security-policy-ncsp-2013-233.pdf"
+  },
+  {
+    "text": "nd operational aspects with \nindustry in order to facilitate efforts in recovery and resilience of systems including \ncritical information infrastructure. \nN. Prioritized approach for implementation \nTo adopt a prioritized approach to implement the policy  so as to address the most \ncritical areas in the first instance. \nV. Operationalisation of the Policy  \nThis policy shall be operationalised by way of detailed guid elines and plans of action at \nvarious levels such as national, sectoral, state, ministry, department and enterprise, as may \nbe appropriate, to address the challenging requirements of security of the cyberspace.",
+    "page": 9,
+    "filename": "national-cyber-security-policy-ncsp-2013-233.pdf"
+  },
+  {
+    "text": "OBJECTIVES\n● To facilitate the growth of industry in Haryana by fostering harmonious industrial\nrelations.\n● To ensure social justice with productivity and growth of industry.\n● To promote industrial health and safety\n● To implement labour laws for ensuring proper working conditions and labour\nstandards.\n● To introduce new labour welfare measures for enhancing the quality of life of the work\nforce.\n● To create ever-improving conditions for women workers by following policies, which\ntake into account their special needs at the workplace.\n● To eliminate employment of all forms of child labour through identification and\nrehabilitation.\n● To energise Vigilance Committees at District and Sub Division level for identification,\nrelease and rehabilitation of Bonded Labour.\n● To provide and improve quality health care to workers through the ESI run hospitals\nand ensure their future security through implementing the Employees Provident Fund\nScheme.\n● To strengthen the conciliation machinery towards achieving the objectives of a\nharmonious worker- management relationship, keeping in view the changing\neconomic scenario.",
+    "page": 2,
+    "filename": "Labour_Policy.pdf"
+  },
+  {
+    "text": "ees Provident Fund\nScheme.\n● To strengthen the conciliation machinery towards achieving the objectives of a\nharmonious worker- management relationship, keeping in view the changing\neconomic scenario.\n● To continuously strengthen and facilitate the functioning of the Labour Courts, in cases\nwhere conciliation has failed.\n2",
+    "page": 2,
+    "filename": "Labour_Policy.pdf"
+  },
+  {
+    "text": "● To train and retrain its employees and officers so that they are better equipped to\nperform their duties.\n● To work in a transparent and time bound manner in dealing with approvals required\nunder various labour laws.\n● To work towards creating an atmosphere wherein both workers and management\nperform their legally laid down roles, which will, in turn, contribute to the economic\ngrowth of the State.\n3",
+    "page": 3,
+    "filename": "Labour_Policy.pdf"
+  },
+  {
+    "text": "APPROACH\nIndustrial Relations have historically been tripartite in nature wherein labour and\nmanagement, if their in-house efforts fail, can seek the intervention of the Labour\nDepartment in resolving any dispute. Such disputes may arise out of any real or perceived\nthreat to the advantage that management or labour sees as its right. Since Industrial\nRelations are a vital part of the economic system, even a temporary setback in the\nharmonious co-existence of these two factors of production can affect the whole system\nnegatively. In fact, industrial conflict affects the community as a whole and prevention of\nsuch conflicts is and would be a high priority for the Labour Department. For this purpose, it\nwould re-orient its approach and become a facilitator in the proper implementation of\nlabour laws and labour welfare measures by disseminating information and assisting in\ncompliance. It would also place decision-making in the context of the industrial sector as a\nwhole by assessing the impact of all decisions on the dynamics of the relative advantages\nfor management and labour.\nThe conciliation & mediation skills of Conciliation Officers are crucial in prevention",
+    "page": 4,
+    "filename": "Labour_Policy.pdf"
+  },
+  {
+    "text": "e by assessing the impact of all decisions on the dynamics of the relative advantages\nfor management and labour.\nThe conciliation & mediation skills of Conciliation Officers are crucial in prevention\nand early resolution of industrial disputes. These skills need to be made more broad-based\nin line with modern management techniques in view of the intricacies of modern\nbusinesses. They could then assist in the setting up of in-house dispute-resolution\nprocesses which would then allow the day-to-day irritants to be settled on a regular basis\nand avoid the building up of resentments on either side. They would also be better\nequipped to achieve a high percentage of settlements in the initial stages.\nThe Labour Department would also endeavour to make proactive interventions in\ncertain situations in order to help in avoiding retrenchments, lay-offs, strikes and industrial\nmishaps.\nThe approach of the Labour Department would be to always keep in the forefront of its\ninterventions in the labour-management relations that both need each other and need to\nrespect each other's rights in the work place for mutual benefit and for industrial growth.",
+    "page": 4,
+    "filename": "Labour_Policy.pdf"
+  },
+  {
+    "text": "the forefront of its\ninterventions in the labour-management relations that both need each other and need to\nrespect each other's rights in the work place for mutual benefit and for industrial growth.\n4",
+    "page": 4,
+    "filename": "Labour_Policy.pdf"
+  },
+  {
+    "text": "STRATEGIES\nThe following strategies would be adopted to achieve the objectives of the Labour\nPolicy:-\nTRIPARTITE CONSULTATIONS\n1. Conferences will be organized with Industrial Associations as well as Trade\nUnions/Workers Organizations towards greater Social Dialogue and for free and frank\nexchange of ideas towards promoting a more transparent working environment in the\nDepartment and to bring about requisite fine-tuning of departmental policies.\n2. Appropriate machinery will be evolved for receiving and handling of suggestions and\ncomplaints from workers and managements in order to get regular feedback and\npoints raised by them will be taken into account in decision-making.\nFACILITATION\n3. The applications for registration, licensing and for approval of factory building plans\nunder the Factories Act, 1948 will be submitted to the Senior Assistant Director,\nIndustrial Safety and Health in their respective areas. They will assist the applicants in\nensuring that the applications are completed in all respects before sending these to\nthe Chief Inspector of Factories. This will facilitate and speed up the process.",
+    "page": 5,
+    "filename": "Labour_Policy.pdf"
+  },
+  {
+    "text": "hey will assist the applicants in\nensuring that the applications are completed in all respects before sending these to\nthe Chief Inspector of Factories. This will facilitate and speed up the process.\n4. Detailed information will be disseminated to workers and managements to promote\ngreater consciousness regarding ergonomics and prevention of industrial accidents.\n5. The procedure for obtaining Registration and License under the Contract Labour\n(Regulation and Abolition) Act, 1970 will be simplified and made time bound. Special\nemphasis will be laid on redressing the grievances of contract labour, protecting their\nrights and preventing their exploitation.\n5",
+    "page": 5,
+    "filename": "Labour_Policy.pdf"
+  },
+  {
+    "text": "INSPECTIONS\n6. The approach towards implementation of labour laws would be to ensure compliance\nrather than prosecution. Whenever shortcomings are detected during the inspections\nof industrial units by the inspecting teams, the employers will be given notice of a\nreasonable period of time to rectify the same before any further action is taken.\n7. An industrial establishment will not be inspected by the functionaries of the Industrial\nSafety and Health wing of the Labour Department more than once in a calendar year,\nunless a specific complaint is received in respect of their establishment.\n8. Computerized statutory records under various labour laws will be acceptable and valid\nin any industry or commercial establishment, provided the format and information\nconforms to the requirement of the respective law and rules made thereunder.\nHowever, a hard copy of these records, duly signed and authenticated by the Occupier\nof the establishment, will have to be kept available every month for statutory\ninspections. Such hard copies and a soft copy will be made available to the Inspecting\nOfficers as and when required. In cases of electronic payment of wages, a certificate",
+    "page": 6,
+    "filename": "Labour_Policy.pdf"
+  },
+  {
+    "text": "every month for statutory\ninspections. Such hard copies and a soft copy will be made available to the Inspecting\nOfficers as and when required. In cases of electronic payment of wages, a certificate\nfrom the concerned bank(s) will have to be submitted to the Inspecting officer as proof\nof payment of wages. However, wage slips will have to be issued to the workers as per\nlaw and there will be no exemption in this regard.\nSETTLEMENT OF DISPUTES\n9. Trade Unions and Managements will be encouraged, through systematic intervention\nby the Labour Department, to set up in-house dispute resolution mechanisms in order\nto defuse disagreements in the initial stages by dealing with them on a day-to-day\nbasis. Outsiders and non-workers, who are not covered under the requisite laws, will\nnot be allowed to associate themselves in the functioning of the Trade Unions and to\ntake part in conciliation proceedings.\n10. The performance of the Labour Department Officers dealing with the conciliation work\nwill be adjudged on the basis of percentage of settlements brought about in order to\nspeed up the process of dispute resolution.",
+    "page": 6,
+    "filename": "Labour_Policy.pdf"
+  },
+  {
+    "text": "e of the Labour Department Officers dealing with the conciliation work\nwill be adjudged on the basis of percentage of settlements brought about in order to\nspeed up the process of dispute resolution.\n6",
+    "page": 6,
+    "filename": "Labour_Policy.pdf"
+  },
+  {
+    "text": "11. It will be the endeavour of the Department to have maximum percentage of disputes\nsettled in the early stages, in order to avoid burdening the Labour Courts. However,\nfunctioning of the Labour Courts will be facilitated by the Government for speedy\ndisposal of cases. For this purpose, the Government has decided to set up two\nadditional Labour Courts one each at Gurgaon and Faridabad, apart from the existing\nseven Labour Courts.\nMINIMUM WAGES\n12. The minimum wage of industrial workers in Haryana is one of the highest in the\ncountry. At present, the minimum wage of unskilled workers has been fixed at Rs.\n3510/- per month and Rs.135/- per day. The Government will continue to review\nand increase these wages from time to time on the basis of tripartite consultations.\nLABOUR WELFARE\n13. Besides ensuring the enforcement of welfare provisions of the labour legislations by\nthe department, welfare schemes for industrial workers such as kanyadan, ex-gratia\nhelp to widows, monetary grants for workers injured in industrial accidents,\nscholarships and financial help for worker's children for pursuing higher studies etc.",
+    "page": 7,
+    "filename": "Labour_Policy.pdf"
+  },
+  {
+    "text": "workers such as kanyadan, ex-gratia\nhelp to widows, monetary grants for workers injured in industrial accidents,\nscholarships and financial help for worker's children for pursuing higher studies etc.\nare presently being implemented. The Government intends to ensure coverage of a\nwider section of workers under various welfare schemes and also enhancement in the\nexisting assistance being provided to workers. New schemes will also be introduced\nfor the welfare of the workers. Alist of welfare schemes of the Labour Welfare Board is\ngiven in theAppendix.\nCONCESSIONS TO INFORMATION TECHNOLOGY/ INFORMATION\nTECHNOLOGY ENABLED SERVICES INDUSTRIES.\n14. In order to encourage Information Technology/Information Technology Enabled\n7",
+    "page": 7,
+    "filename": "Labour_Policy.pdf"
+  },
+  {
+    "text": "8\nServices and Industry, malls, the Government has adopted a liberal policy in granting\nexemption from the operation of the provisions of Punjab Shops and Commercial\nEstablishmentAct, 1958, regarding opening and closing hours under Section 9 and 10\nof the Act. A notification has already been issued in this regard on 18th November\n2005, exempting all the Information Technology and Information Technology Enabled\nServices industries from the provisions of Section 9 and 10 of the Act. The Information\nTechnology/Information Technology Enabled Services industry has also been added\nto the First Schedule of the Industrial Disputes Act, 1947 for the purpose of declaring\nthis industry as a “Public Utility Service”, which will prevent the occurrence of strikes\nas well as lockouts without due notice. This will go a long way in preventing industrial\nunrest in this industry. The Government has also taken a policy decision to allow the\nemployment of women workers during night shifts in this sector to encourage\nemployment of women while ensuring sufficient protection of their rights. This\npermission is initially granted for one year, and on request, it can be renewed for a",
+    "page": 8,
+    "filename": "Labour_Policy.pdf"
+  },
+  {
+    "text": "shifts in this sector to encourage\nemployment of women while ensuring sufficient protection of their rights. This\npermission is initially granted for one year, and on request, it can be renewed for a\nperiod of three years at a time. The permission is granted on the following conditions:\ni. The management will provide adequate security and proper transport facility to\nthe women workers during night shift.\nii. The management shall ensure protection of women from sexual harassment at\nthe work place in terms of the directions of the Hon'ble Supreme Court in this\nregard.\nUPGRADATION OF DEPARTMENTAL FUNCTIONING\n15.Training programmes will be formulated and organized for the officers of the Labour\nDepartment in collaboration with the industries and the Haryana State Safety Council\nin order to upgrade their professional skills and bring about attitudinal changes in line\nwith national and global developments. The technical skills of the staff dealing with\nindustrial health and safety will also be upgraded through in-service training\nprogramme.",
+    "page": 8,
+    "filename": "Labour_Policy.pdf"
+  },
+  {
+    "text": "tudinal changes in line\nwith national and global developments. The technical skills of the staff dealing with\nindustrial health and safety will also be upgraded through in-service training\nprogramme.\n16.An upgraded system of work audit of the field offices of the department will be",
+    "page": 8,
+    "filename": "Labour_Policy.pdf"
+  },
+  {
+    "text": "9\ndeveloped and introduced to continuously supervise the implementation of various\naspects of the Labour Policy and also undertake the required adjustment, which might\nbecome necessary in future. This will include the introduction of appropriate\nparameters in the self-assessment performas at various levels for assessing work\nperformance.\n17.The powers delegated to Deputy Labour Commissioners and Labour Officers under\nvariousActs will be rationalized for speedier disposal of work.\n18.The departmental offices will be upgraded and work of computerization will be\nspeeded up in order to bring in greater transparency and connectivity. Transportation\nand communication facilities for departmental officers will be upgraded to facilitate\nmobility and speedier disposal of work.",
+    "page": 9,
+    "filename": "Labour_Policy.pdf"
+  },
+  {
+    "text": "10\nTIME SCHEDULE FOR DISPOSAL OF WORK\nTo ensure timely justice to the workers and employers the time schedule for disposal\nof cases under various labour laws shall be as follows:\nSCHEDULE OF MAXIMUM TIME FOR DISPOSAL OF CASES UNDER\nVARIOUS LABOUR LAWS IN THE FIELD OFFICES IN THEIR\nRESPECTIVE JURISDICTION\nI. LABOUR INSPECTORS\nSr. No. Subject matter Officer/Official Time schedule\n1. Registration of Shops/ Labour Inspector Not more than\nCommercial Establishments fifteen days from the\nunder the Punjab Shops & date of receipt of the\nCommercial Establishments papers complete\nAct and Rules made in all respects.\nthere-under\n2. Implementation of awards/ Labour Inspector Not more than two\nsettlement under the months after the\nIndustrial Disputes Act, date of enforcement\n1947 and Rules of the award.\n3. Disposal of complaints under Labour Inspector Not more than\nvarious labour laws i.e. one month.\nPayment of WagesAct,\nMinimum WagesAct,\nNational and Festival\nHolidaysAct,Payment\nof GratuityAct, Payment\nof Bonus Act, Punjab Shops and\nCommercial Establishments\nAct, Equal RemunerationAct,\nContract Labour (R&A)\nAct and the rules made\nunder the respective",
+    "page": 10,
+    "filename": "Labour_Policy.pdf"
+  },
+  {
+    "text": "ival\nHolidaysAct,Payment\nof GratuityAct, Payment\nof Bonus Act, Punjab Shops and\nCommercial Establishments\nAct, Equal RemunerationAct,\nContract Labour (R&A)\nAct and the rules made\nunder the respective\nenactments",
+    "page": 10,
+    "filename": "Labour_Policy.pdf"
+  },
+  {
+    "text": "11\nII. LABOUR OFFICER- CUM -CONCILIATION OFFICERS\nSr. No. Subject matter Officer/Official Time schedule\n1. Cases under section 2-Aof Labour Officer-cum- Not more than\nthe Industrial Disputes Conciliation Officer three months.\nAct, 1947 & Rules regarding\ntermination/retrenchment/\ndischarge/dismissal\n2. Quasi Judicial Claim cases Labour Officer-cum- Not more than\nunder the Workmen's Conciliation Officer- one year.\nCompensationAct,Payment cum-Specified\nof WagesAct, Minimum Authority under\nWagesAct, Payment of the relevantAct\nGratuityAct and Equal\nRemunerationAct and the\nrules made under the\nrespective enactments\n3. Implementation of awards/ Labour Officer-cum- Not more than\nsettlement under the Conciliation Officer one month.\nIndustrial Disputes  Act,\n1947 & Rules\n4. Disposal of complaints under Labour Officer-cum- Not more than two\nvarious labour enactments Conciliation officer months.\ni.e. Payment of WagesAct,\nMinimum WagesAct, National\nand Festival HolidaysAct,\nPayment of GratuityAct,\nPayment of Bonus Act, Punjab \nShops and Commercial\nEstablishmentsAct,Equal\nRemunerationAct,Contract\nLabour (R&A) Act and the",
+    "page": 11,
+    "filename": "Labour_Policy.pdf"
+  },
+  {
+    "text": "nimum WagesAct, National\nand Festival HolidaysAct,\nPayment of GratuityAct,\nPayment of Bonus Act, Punjab \nShops and Commercial\nEstablishmentsAct,Equal\nRemunerationAct,Contract\nLabour (R&A) Act and the\nrules made there under",
+    "page": 11,
+    "filename": "Labour_Policy.pdf"
+  },
+  {
+    "text": "12\nIII. DEPUTY LABOUR COMMISSIONERS\nSr. No. Subject matter Officer in-charge Time schedule\n1. Cases under section 2(k) Deputy Labour Not more than six\nof the industrial Disputes Commissioner months\nAct & Rules-disputes of extendable by\ncollective nature containing another 3 months\nvarious demands pertaining on the request of\nto conditions of employment both the parties.\n2. Publication of awards received Deputy Labour Not more than\nfrom the Industrial Commissioner two weeks.\nTribunal/ Labour Court\n3. Disposal of quasi judicial Deputy Labour Not more than six\ncases under the Payment Commissioner-cum- months.\nof GratuityAct and Rules AppellateAuthority\nIV. ASSISTANT DIRECTOR, INDUSTRIAL SAFETY & HEALTH IN THEIR\nRESPECTIVE JURISDICTION\nMaternity BenefitAct Assistant Director, Not more than 3\nand Rules. Industrial Safety & months.\nHealth\nV. SR. ASSISTANT DIRECTOR, INDUSTRIAL SAFETY & HEALTH IN THEIR\nRESPECTIVE JURISDICTION\nImplementation of the provisions Sr.Assistant Not more than two\nof the FactoriesAct and the Director, Industrial months.\nRules framed there under/ Safety & Health\ncomplaints received relating to\ntheAct/Rules/complaintsunder\nthe Maternity BenefitAct.",
+    "page": 12,
+    "filename": "Labour_Policy.pdf"
+  },
+  {
+    "text": "more than two\nof the FactoriesAct and the Director, Industrial months.\nRules framed there under/ Safety & Health\ncomplaints received relating to\ntheAct/Rules/complaintsunder\nthe Maternity BenefitAct.\nVI. MEDICAL OFFICERS INDUSTRIAL SAFETY & HEALTH IN THEIR\nRESPECTIVE JURISDICTION\nImplementation of the Medical Officers\nprovisions of the Factories Industrial Health\nAct and the Rules framed",
+    "page": 12,
+    "filename": "Labour_Policy.pdf"
+  },
+  {
+    "text": "there under/ complaints Not more than 3\nreceived relating to theAct/ months\nRules/ relating to industrial\nhealth /complaints under the\nMaternity BenefitAct.\nVII. CERTIFYING SURGEONS IN THEIR RESPECTIVE JURISDICTION\nImplementation of the Certifying Surgeons Not more than two\nprovisions of the FactoriesAct months.\nand the Rules framed there\nunder/ complaints received\nrelating to theAct/Rules/\nrelating to industrial health /\ncomplaints under the\nMaternity BenefitAct\nAT THE HEAD QUARTERS\nOfficers to be Maximum\nSr. Subject matter contacted in period of\nNo. case of redressal of\ngrievances grievance\n1. INDUSTRIAL DISPUTES Not more than 60\nACT 1947 & RULES days from the date\ni) Demand notice under section Joint Labour of receipt of\n2A-disputes regarding Commissioner report from the\ndischarge/ termination/ field officers.\nretrenchment/ dismissal\nii) Demand notice under section Joint Not more than three\n2(k)-disputes of collective Labour months from the\nnature containing various Commissioner date of receipt of\ndemands relating to report from the\nterms and conditions field officers.\nof employment\niii) Complaints regarding unfair Joint\nlabour practice & other Labour",
+    "page": 13,
+    "filename": "Labour_Policy.pdf"
+  },
+  {
+    "text": "ng various Commissioner date of receipt of\ndemands relating to report from the\nterms and conditions field officers.\nof employment\niii) Complaints regarding unfair Joint\nlabour practice & other Labour\n13",
+    "page": 13,
+    "filename": "Labour_Policy.pdf"
+  },
+  {
+    "text": "miscellaneous matters Commissioner Not more than\nunder Section 25-T three months.\nof the aboveAct & Rules.\n2. Complaints/cases under E.S.I. Joint Not more than\nAct & Rules /EPFAct & Rules / Labour 30 days.\nWorkmen's Compensation Commissioner\nAct & Rules/ Payment of\nGratuityAct & Rules regarding\nnon-payment of\ncompensation etc.\n3. Industrial Employment Joint Not more than\n(Standing Orders)Act and Labour two months.\nrules - Certification of Commissioner-cum\nStanding orders in respect Certifying Officer\nof industrial workers\n4. Trade UnionsAct and Joint Not more than\nRules -registration Labour four months\nof trade unions Commissioner -cum\nAdditional Registrar,\nTrade Unions/\nRegistrar Trade Unions\n5. Contract Labour (R & A) Act Deputy                          Not more than\nand rules -issuing of registration Labour two months.\ncertificate/license/amendment Commissioner-Field\nin registration certificate and            Offices\nrenewal of license\n6. Motor Transport Workers Joint Not more than\nAct & Rules -issuance Labour one month.\nof registration certificate Commissioner\n7. Cases under the Minimum Joint\nWagesAct, Payment of Wages Labour\nAct, Equal RemunerationAct, Commissioner",
+    "page": 14,
+    "filename": "Labour_Policy.pdf"
+  },
+  {
+    "text": "more than\nAct & Rules -issuance Labour one month.\nof registration certificate Commissioner\n7. Cases under the Minimum Joint\nWagesAct, Payment of Wages Labour\nAct, Equal RemunerationAct, Commissioner\nPayment of BonusAct and\nrules made under respective\n14",
+    "page": 14,
+    "filename": "Labour_Policy.pdf"
+  },
+  {
+    "text": "enactments in respect of non Not more than\npayment of wages, non one month.\npayment of minimum rates of\nwages, delayed wages, non\npayment of equal wages for\nequal work and non payment\nof bonus\n8. Implementation ofAwards- Deputy Labour Not more than\nIssuance of recovery certificate Commissioner three months.\n& prosecution cases under the\nIndustrial DisputesAct and\nRules/ orders/ settlement\n9. Child Labour (P & R)Act and Deputy Labour Not more than\nRules - Cases/Complaints Commissioner two months.\nand other action pertaining\nto children.\n10. Bonded Labour System Deputy Labour Not more than\n(Abolition)Act and Rules- Commissioner one month.\nConstitution of Vigilance\nCommittees/ holding of\nmeeting of the State Level\nSteering Committee on\nBonded Labour/Miscellaneous\nmatters pertaining to\nbonded labour\n11. Punjab Shops & Commercial Deputy Labour Not more than\nEstablishmentsAct, Commissioner twomonths.\n1958 and Rules-cases\nregarding exemptions/\nfixation of opening and\nclosing day/complaints\n12. Complaints under the Punjab Deputy Labour Not more than\nIndustrial Establishments Commissioner one month.\n(National and Festival\nHolidays, Casual and Sick\nLeave) Act, 1965 and Rules",
+    "page": 15,
+    "filename": "Labour_Policy.pdf"
+  },
+  {
+    "text": "ay/complaints\n12. Complaints under the Punjab Deputy Labour Not more than\nIndustrial Establishments Commissioner one month.\n(National and Festival\nHolidays, Casual and Sick\nLeave) Act, 1965 and Rules\n15",
+    "page": 15,
+    "filename": "Labour_Policy.pdf"
+  },
+  {
+    "text": "13. Punjab Labour Welfare SeniorAccounts Not more than two\nFundAct and Rules- Officer months.\ndisposal of applications\nreceived under the\nwelfare schemes\nINDUSTRIAL SAFETY AND HEALTH\nOfficers to be Maximum period of\nSr. Subject matter contactedincase redressal of\nNo. of grievances grievance\n1. FactoriesAct, 1948 & Rules- Labour Not more than 60\napproval of factory building Commissioner-cum Days from receipt of\nplans Chief Inspector papers complete in\nof Factories all respects\n2. Cases regarding grant/renewal Labour Not more than 60\nof license Commissioner Days from receipt\ncum Chief Inspector \n3. Cases under the Maternity Labour Not more than 60\nBenefit Act and Rules. Commissioner Days from receipt\ncum Chief Inspector of papers complete\nof Factories in all respects\n16\nof Factories\nof papers complete  \nin all respects",
+    "page": 16,
+    "filename": "Labour_Policy.pdf"
+  }
+]
